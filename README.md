@@ -1,2 +1,2 @@
-# captcha
-this is a captcha demo
+# check
+PHP检查操作类
