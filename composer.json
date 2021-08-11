@@ -1,0 +1,18 @@
+{
+    "name": "earo911/check",
+    "description": "this is a check class for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Earo911\\Check\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "earo",
+            "email": "earo@qq.com"
+        }
+    ],
+    "require": {}
+}
